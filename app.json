@@ -1,16 +1,16 @@
 {
-    "name": "Queen Amdi 3.5.0v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "𝓐𝓷𝓸𝓷𝓥2 3.5.0v",
+    "description": "𝓐𝓷𝓸𝓷𝓥2 is a chat bot for WhatsApp. \n By Nischal 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "AnonV2",
         "WhatsApp",
         "User Bot",
         "Chat bot",
         "Button bot",
-        "Black Amda"
+        "Nischal"
     ],
-    "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "website": "nishi-smm.xyz",
+    "logo": "https://i.imgur.com/xQQH92F.png",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
@@ -31,7 +31,7 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.imgur.com/xQQH92F.png"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
@@ -75,7 +75,7 @@
         "BYE_LOGO": {
             "description": "Picture with good bye message. Paste an image direct link or do '.setbye' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
+            "value": "https://i.imgur.com/xQQH92F.png"
         },
         "CAP": {
             "description": "Caption of media files.",
@@ -89,7 +89,7 @@
         },
         "GAN_IMAGE": {
             "description": "No need to change.",
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.imgur.com/xQQH92F.png"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands. (Don't delete ^[ ])",
